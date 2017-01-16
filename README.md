@@ -1,7 +1,7 @@
 # zndkcl
 test application for command line interdace
 
-## Geting Started
+## Getting Started
 ```bash
 $ make clean
 $ make depend
